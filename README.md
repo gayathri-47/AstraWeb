@@ -1,2 +1,2 @@
 # AstraWeb
-solving Qwipo prblm statement
+solving Qwipo prblm statement.
